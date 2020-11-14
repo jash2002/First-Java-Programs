@@ -1,0 +1,12 @@
+public class Tree {
+  public static void main(String[] args){
+    //we will print a tree to the screen
+    System.out.println("Hey there, I am Jonathan and I am learning to code in Java!");
+    System.out.println("I am going to plant a tree today!");
+    System.out.println("  *  ");
+    System.out.println(" *** ");
+    System.out.println(" *** ");
+    System.out.println("  *  ");
+    System.out.println("  *  ");
+  }
+}
