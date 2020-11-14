@@ -1,7 +1,4 @@
 Github for all of my projects 
-  Python3 
-  Java 
-  Javascript    
-  Bash
+ Java
 
 # Java-First-Programs
